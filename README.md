@@ -2,7 +2,7 @@
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data analyses using Sql,Tableau and Excel operations.
 - 💞️ I’m looking to collaborate on data.
-- 📫 How to reach me ...
+- 📫 Reach me at Selina.alfred@gmail.com
 
 <!---
 Selina-Balakumar/Selina-Balakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
